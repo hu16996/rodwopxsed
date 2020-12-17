@@ -20,7 +20,7 @@ on:
         default: 'false'
   schedule:
     - 
-      cron: '20 8 * * 4'
+      cron: '50 10 * * 4'
 
 env:
   REPO_URL: https://github.com/Lienol/openwrt
