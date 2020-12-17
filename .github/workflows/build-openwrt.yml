@@ -19,7 +19,7 @@ on:
         required: false
         default: 'false'
   schedule:
-    - cron: 30 9 * * 5
+    - cron: 5 8 * * 4
 
 env:
   REPO_URL: https://github.com/Lienol/openwrt
